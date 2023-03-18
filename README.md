@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&color=F7E793&width=435&lines=gm%2C+I'm+Alex.;I'm+a+full-stack+engineer%2C;and+I+like+food.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&duration=4000&pause=100&color=F7E793&width=435&lines=gm%2C+I'm+Alex.;I'm+a+full-stack+engineer%2C;and+I+like+food.)](https://git.io/typing-svg)
 <!--
 **alexjraymond/alexjraymond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
