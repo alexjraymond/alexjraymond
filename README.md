@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=gm,+I'm+Alex;Second+line+of+text)](https://git.io/typing-svg)
+
+
 <!--
 **alexjraymond/alexjraymond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
