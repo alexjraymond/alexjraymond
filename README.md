@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=gm,+I'm+Alex;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=gm,+I'm+Alex;🔭+line+of+text)](https://git.io/typing-svg)
 
 
 <!--
